@@ -1,0 +1,61 @@
+.container{
+background-color:white;
+margin-left: 600px;
+margin-right: 600px;
+margin-top: 100px;
+margin-bottom: 500px;
+height: auto;
+}
+h1{
+    text-align: center;
+}
+.sondiv{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.btn1{
+    background-color: palevioletred;
+    height: 30px;
+    width: 100px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 0px;
+    
+    
+}
+.btn2{
+    height: 30px;
+    width: 100px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 0px;
+    }
+    .sondiv1{
+        justify-content: center;
+        text-align: center;
+        margin-top: 20px;
+        
+    }
+    p{
+        justify-content: center;
+        text-align: center;
+        color: rgb(150, 59, 59);
+        font-weight: 100;
+        font-size: large;
+        font-style: italic;
+    }
+    .login{
+        justify-content: center;
+        text-align: center;
+        background-color: palevioletred;
+        height: 40px;
+        width: 300px;
+        margin-left: 200px;
+        border-radius: 5px;
+    }
+    .sondiv2{
+        display: flex;
+    text-align: center;
+    justify-content: center;
+    }
