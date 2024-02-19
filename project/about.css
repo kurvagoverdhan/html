@@ -1,0 +1,258 @@
+body{
+    margin: 0;
+    padding:0;
+}
+.navbar{
+    background-color: black;
+    height: 100px;
+    color: white;
+    display: flex;
+}
+.symbol{
+    align-items: center;
+    margin-left: 10%;
+    
+    font-size:40px;
+}
+.navlist{
+    float: right;
+    align-items: center;
+    display: flex;
+    margin-left: 40%;
+    text-align: center;
+    gap: 70px;
+    padding-top: 25px;
+    list-style-type: none;
+    font-weight: 900;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.and{
+    text-decoration: none;
+    color: white;
+}
+.and:hover{
+    background-color: tomato;
+}
+.who{
+    text-decoration: none;
+    color: white;
+}
+.who:hover{
+    background-color: tomato;
+}
+.why{
+    text-decoration: none;
+    color: white;
+}
+.why:hover{
+    background-color: tomato;
+}
+.when{
+    text-decoration: none;
+    color: white;
+}
+.when:hover{
+    background-color: tomato;
+}
+.firstsec{
+    height: 30vh;
+    width: 100%;
+    background-color: whitesmoke;
+    display: flex;
+}
+.img{
+    height: 250px;
+    width: 400px;
+    margin-left: 100px;
+    padding-top: 10px;
+    margin-left: 300px;
+
+
+}
+.firstda{
+    height: 100px;
+    width: 1500px;
+    background-color: rgba(255, 255, 255, 0.582);
+    margin-top: 90px;
+    margin-left: -100px;
+    
+}
+.main{
+    font-size: 50px;
+    margin-top: -10px;
+    margin-left:00px;
+}
+.para{
+    font-size: 20px;
+}
+.heading{
+    text-align: center;
+    font-family: Impact;
+    letter-spacing: 3px;
+    font-style: oblique;
+}
+.secondsec{
+    height: 50vh;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    gap:50px;
+    padding-top: 50px;
+    padding-left: 400px;
+}
+.firstdb{
+    height: 350px;
+    width: 300px;
+    background-color: rgba(195, 201, 228, 0.471);
+    text-align: center;
+    font-size: 30px;
+}
+.seconddb{
+    height: 350px;
+    width: 300px;
+    background-color:  rgba(195, 201, 228, 0.471);
+    text-align: center;
+    font-size: 30px;
+}
+.thirddb{
+    height: 350px;
+    width: 300px;
+    background-color:  rgba(195, 201, 228, 0.471);
+    text-align: center;
+    font-size: 30px;
+}
+.list1{
+    font-size: large;
+    text-align: left;
+}
+.list2{
+    font-size: large;
+    text-align: left;  
+}
+.list3{
+    font-size: large;
+    text-align: left;   
+}
+.thirdsec{
+    margin-left: 400px;
+}
+.fourthdb{
+    height: 400px;
+    width: 70%;
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+    font-size: large;
+    margin-top: -60px;
+}
+.sp{
+    font-size: 40px;
+}
+.mar{
+    height: 150px;
+    width: 900px;
+    background-color:transparent;
+    margin-top: 20px;
+    align-items: center;
+    padding-top: 50px;
+    
+}
+.img1{
+    height: 100px;
+    width: 100px;
+    margin-right: 20px;
+}
+.img2{
+    height: 100px;
+    width: 100px;
+    margin-right: 50px;
+}
+.img3{
+    height: 100px;
+    width: 100px;
+    margin-right: 50px;
+}
+.img4{
+    height: 100px;
+    width: 100px;
+    margin-right: 50px; 
+}
+.img5{
+    height: 100px;
+    width: 100px;
+    margin-right: 50px; 
+} 
+.img6{
+    height: 100px;
+    width: 100px;
+    margin-right: 50px;  
+}
+.fifthdb{
+    height: 400px;
+    width: 835px;
+    background-color: aqua;
+    
+    
+
+}
+/*.fourthsec{
+    height: 50px;
+    width: 100%;
+    background-color: pink;
+    padding-top: 10px;
+    display: flex;
+    gap: 60px;
+    
+}
+.param{
+  font-size: large;  
+  color: blue; 
+  padding-bottom: 30px;
+}
+.one{
+    margin-left: 400px;
+    padding-top: -10px;
+}*/
+.tail{
+    border: 1px;
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding-top: 5px;
+    margin-top: 5px;
+}
+.main{
+    text-align: center;
+    font-size:50px;
+    margin-top: -10px;
+}
+.get{
+    text-align: center;
+    margin-top: -20px;
+    font-style: italic;
+}
+.gone{
+    text-align: center;
+    font-size: larger;
+
+}
+.fourthsec{
+    height: 50px;
+    width: 100%;
+    background-color: pink;
+    padding-top: 10px;
+    display: flex;
+    gap: 0px;
+    margin-top: 20px;
+    
+    
+}
+.one{
+    margin-left: 90px;
+}
+.gh{
+    color: blue;
+}
+

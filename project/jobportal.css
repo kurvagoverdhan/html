@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    padding:0;
+}
+.navbar{
+    background-color: black;
+    height: 100px;
+    color: white;
+    display: flex;
+}
+.symbol{
+    align-items: center;
+    margin-left: 10%;
+    
+    font-size:40px;
+}
+.navlist{
+    float: right;
+    align-items: center;
+    display: flex;
+    margin-left: 40%;
+    text-align: center;
+    gap: 70px;
+    padding-top: 25px;
+    list-style-type: none;
+    font-weight: 900;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.firstsec{
+    height: 30vh;
+    width: 100%;
+    background-color: whitesmoke;
+    display: flex;
+}
+.img{
+    height: 250px;
+    width: 400px;
+    margin-left: 100px;
+    padding-top: 10px;
+    margin-left: 300px;
+
+
+}
+.firstda{
+    height: 100px;
+    width: 1500px;
+    background-color: rgba(255, 255, 255, 0.582);
+    margin-top: 90px;
+    margin-left: -100px;
+    
+}
+.main{
+    font-size: 50px;
+    margin-top: -10px;
+    margin-left:00px;
+}
+.para{
+    font-size: 20px;
+}
+.heading{
+    text-align: center;
+    font-family: Impact;
+    letter-spacing: 3px;
+    font-style: oblique;
+}
+.secondsec{
+    height: 80vh;
+    width: 80%;
+    background-color: rgba(255, 192, 203, 0.248);
+    margin-left: 200px;
+    padding-left: 100px;
+    font-size: 25px;
+    padding-top: 50px;
+    
+}
+.strng:visited{
+   
+    color: blue;
+}
+.strng:hover{
+    color: red;
+}
+.strng{
+    font-style: italic;
+}
+.strng2:visited{
+   color: blue;
+}
+.strng2:hover{
+    color: red;
+}
+.strng2{
+    font-style: italic;
+}
+.tail{
+    border: 1px;
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    margin-top: 15px;
+    
+   
+}
+.main{
+    text-align: center;
+    font-size:50px;
+    margin-top: -10px;
+}
+.get{
+    text-align: center;
+    margin-top: -20px;
+    font-style: italic;
+}
+.gone{
+    text-align: center;
+    font-size: larger;
+
+}
+.who{
+    text-decoration: none;
+    color: white;
+}
